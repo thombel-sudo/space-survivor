@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpaceSurvivor:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpaceSurvivor_jar</output-path>
+    <root id="archive" name="SpaceSurvivor.jar">
+      <element id="module-output" name="SpaceSurvivor" />
+    </root>
+  </artifact>
+</component>
